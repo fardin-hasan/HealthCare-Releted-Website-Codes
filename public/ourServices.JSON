@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Kazi Ali Hassan",
+        "age": 45,
+        "img": "https://africanamericangrants.org/wp-content/uploads/2020/10/Medical-grants-africanamericangrants.org_-2-777x400.png",
+        "rating": 4.5,
+        "Designation": "Specialist of Endocrinologist"
+    },
+    {
+        "id": 2,
+        "name": "DR. S. H. KHAN",
+        "age": 46,
+        "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+        "rating": 4.5,
+        "Designation": "Accupressure"
+    },
+    {
+        "id": 3,
+        "name": "Dr. A.S.M. Badruddoza",
+        "age": 43,
+        "img": "https://www.todayshospitalist.com/wp-content/uploads/2016/05/happyphysicianansweringpoll-.jpg",
+        "rating": 4.5,
+        "Designation": "Accupressure"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Asim Mohajan",
+        "age": 53,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVbEgOSxkt6MT9JcespHEhV9UZYwXfYpO1WtsN9lUs0orsv1zVOnA6eJbCwqbSGKsOJwI&usqp=CAU",
+        "rating": 4.5,
+        "Designation": "Physiotherapy"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Jonaid Shafiq",
+        "age": 54,
+        "img": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/omA-0udY8mims21GI64qbKWmmRM=/380x285/smart/filters:no_upscale()/arc-anglerfish-arc2-prod-dmn.s3.amazonaws.com/public/HEBZLTX4ZVW776VNBZ4MWM5WVM.jpg",
+        "rating": 4.5,
+        "Designation": "Accupuncture"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Md. Rezaul Karim",
+        "age": 43,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCjPYZFOi9eqZBVn6mvcCOEOA4sqUT3u5mxkWkpB-qQUNM-yd2pa-s_pKDcOul5MOjBQ&usqp=CAU",
+        "rating": 4.5,
+        "Designation": " Pain and Paralysis"
+    }
+]

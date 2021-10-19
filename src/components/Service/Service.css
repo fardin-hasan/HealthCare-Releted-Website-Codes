@@ -1,0 +1,14 @@
+.service {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+img {
+    width: 150px;
+    height: 200px;
+    padding: 20px;
+
+}
+.button{
+    margin-left: 80px;
+}

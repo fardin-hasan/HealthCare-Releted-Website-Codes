@@ -1,0 +1,13 @@
+.header {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar a {
+    text-decoration: none;
+    padding-right: 30px;
+
+}
+
+span {
+    color: rgb(63, 212, 63);
+}
