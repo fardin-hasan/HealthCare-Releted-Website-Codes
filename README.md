@@ -1,4 +1,4 @@
-# Unity HOspital
+# Unity Hospital
 
 The live Site [link](https://maa-o-sishu-hosptal.web.app).
 
