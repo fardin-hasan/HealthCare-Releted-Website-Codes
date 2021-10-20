@@ -10,8 +10,8 @@ const Service = ({ service }) => {
       <div className="card ">
         <img src={img} className="card-img-top  " alt="..." />
         <div className="card-body">
-          <h5 className="card-title">{name}</h5>
-          <p><b>{Designation}</b></p>
+          <h5 className="card-title">Name : {name}</h5>
+          <p><b>Designeation : {Designation}</b></p>
           <div className='button'>
             <Link to={`/information/${id}`}><button className=' btn btn-warning  '>Detailed Information</button></Link>
           </div>

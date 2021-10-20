@@ -5,8 +5,8 @@ import useAuth from '../../Hooks/useAuth';
 const Login = () => {
   const { signInusingGoogle, handleForm, handleEmail, handlePassword, error, toggle, islogin } = useAuth();
   return (
-    <div className='d-flex justify-content-center m-5 '>
-      <div className='w-25 border rounded p-3 bg-light'>
+    <div className=' m-5 '>
+      <div className=' border rounded p-3 bg-light m-auto col-lg-3 col-sm-6'>
         <form onSubmit={handleForm}>
           <h1 className='text-center '>Please Sign{islogin ? " In " : ' Up '}</h1>
           <div className="mb-3">
